@@ -16,7 +16,7 @@
     * 编程语言理论 
       * [入门](shu-hai/cheng-xu-she-ji/ru-men.md)
       * [必读](shu-hai/cheng-xu-she-ji/bi-du.md)
-      * 扩展
+      * [扩展](shu-hai/cheng-xu-she-ji/kuo-zhan.md)
   * 软件开发
   * 个人成长
 
