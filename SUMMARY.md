@@ -27,8 +27,8 @@
       * [扩展](shu-hai/cheng-xu-she-ji/suan-fa-yu-shu-ju-jie-gou/kuo-zhan.md)
     * [程序调试](shu-hai/cheng-xu-she-ji/cheng-xu-diao-shi.md)
       * [入门](shu-hai/cheng-xu-she-ji/cheng-xu-diao-shi/ru-men.md)
-      * 必读
-      * 扩展
+      * [必读](shu-hai/cheng-xu-she-ji/cheng-xu-diao-shi/bi-du.md)
+      * [扩展](shu-hai/cheng-xu-she-ji/cheng-xu-diao-shi/kuo-zhan.md)
   * 软件开发
   * 个人成长
 
