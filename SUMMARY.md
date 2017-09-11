@@ -29,6 +29,7 @@
       * [入门](shu-hai/cheng-xu-she-ji/cheng-xu-diao-shi/ru-men.md)
       * [必读](shu-hai/cheng-xu-she-ji/cheng-xu-diao-shi/bi-du.md)
       * [扩展](shu-hai/cheng-xu-she-ji/cheng-xu-diao-shi/kuo-zhan.md)
-  * 软件开发
+  * [软件开发](shu-hai/ruan-jian-kai-fa.md)
+    * 编程实践
   * 个人成长
 
