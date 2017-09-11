@@ -21,6 +21,10 @@
       * [入门](shu-hai/cheng-xu-she-ji/cheng-xu-she-ji/ru-men.md)
       * [必读](shu-hai/cheng-xu-she-ji/cheng-xu-she-ji/bi-du.md)
       * [扩展](shu-hai/cheng-xu-she-ji/cheng-xu-she-ji/kuo-zhan.md)
+    * [算法与数据结构](shu-hai/cheng-xu-she-ji/suan-fa-yu-shu-ju-jie-gou.md)
+      * [入门](shu-hai/cheng-xu-she-ji/suan-fa-yu-shu-ju-jie-gou/ru-men.md)
+      * [必读](shu-hai/cheng-xu-she-ji/suan-fa-yu-shu-ju-jie-gou/bi-du.md)
+      * [扩展](shu-hai/cheng-xu-she-ji/suan-fa-yu-shu-ju-jie-gou/kuo-zhan.md)
   * 软件开发
   * 个人成长
 
