@@ -13,10 +13,12 @@
       * [入门](shu-hai/cheng-xu-she-ji/bian-cheng-yu-yan/ru-men.md)
       * [必读](shu-hai/cheng-xu-she-ji/bian-cheng-yu-yan/bi-du.md)
       * [扩展](shu-hai/cheng-xu-she-ji/bian-cheng-yu-yan/kuo-zhan.md)
-    * 编程语言理论 
+    * [编程语言理论 ](shu-hai/cheng-xu-she-ji/bian-cheng-yu-yan-li-lun.md)
       * [入门](shu-hai/cheng-xu-she-ji/ru-men.md)
       * [必读](shu-hai/cheng-xu-she-ji/bi-du.md)
       * [扩展](shu-hai/cheng-xu-she-ji/kuo-zhan.md)
+    * [程序设计](shu-hai/cheng-xu-she-ji/cheng-xu-she-ji.md)
+      * [入门](shu-hai/cheng-xu-she-ji/cheng-xu-she-ji/ru-men.md)
   * 软件开发
   * 个人成长
 
