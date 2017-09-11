@@ -12,7 +12,7 @@
     * [编程语言](shu-hai/cheng-xu-she-ji/bian-cheng-yu-yan.md)
       * [入门](shu-hai/cheng-xu-she-ji/bian-cheng-yu-yan/ru-men.md)
       * [必读](shu-hai/cheng-xu-she-ji/bian-cheng-yu-yan/bi-du.md)
-      * 扩展
+      * [扩展](shu-hai/cheng-xu-she-ji/bian-cheng-yu-yan/kuo-zhan.md)
   * 软件开发
   * 个人成长
 
