@@ -7,7 +7,7 @@
   * [程序设计](shu-hai/cheng-xu-she-ji.md)
     * [基础理论](shu-hai/cheng-xu-she-ji/ji-chu-li-lun.md)
       * [入门](shu-hai/cheng-xu-she-ji/ji-chu-li-lun/ru-men.md)
-      * 必读
+      * [必读](shu-hai/cheng-xu-she-ji/ji-chu-li-lun/bi-du.md)
       * 扩展
   * 软件开发
   * 个人成长
