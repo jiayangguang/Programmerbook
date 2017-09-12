@@ -42,5 +42,9 @@
       * [入门](shu-hai/ruan-jian-kai-fa/zhong-gou/ru-men.md)
       * [必读](shu-hai/ruan-jian-kai-fa/zhong-gou/bi-du.md)
       * [扩展](shu-hai/ruan-jian-kai-fa/zhong-gou/kuo-zhan.md)
+    * [软件测试](shu-hai/ruan-jian-kai-fa/ruan-jian-ce-shi.md)
+      * [入门](shu-hai/ruan-jian-kai-fa/ruan-jian-ce-shi/ru-men.md)
+      * [必读](shu-hai/ruan-jian-kai-fa/ruan-jian-ce-shi/bi-du.md)
+      * 扩展
   * 个人成长
 
