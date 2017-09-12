@@ -30,6 +30,9 @@
       * [必读](shu-hai/cheng-xu-she-ji/cheng-xu-diao-shi/bi-du.md)
       * [扩展](shu-hai/cheng-xu-she-ji/cheng-xu-diao-shi/kuo-zhan.md)
   * [软件开发](shu-hai/ruan-jian-kai-fa.md)
-    * 编程实践
+    * [编程实践](shu-hai/ruan-jian-kai-fa/bian-cheng-shi-jian.md)
+      * [入门](shu-hai/ruan-jian-kai-fa/bian-cheng-shi-jian/ru-men.md)
+      * [必读](shu-hai/ruan-jian-kai-fa/bian-cheng-shi-jian/bi-du.md)
+      * 扩展
   * 个人成长
 
