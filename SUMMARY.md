@@ -34,5 +34,9 @@
       * [入门](shu-hai/ruan-jian-kai-fa/bian-cheng-shi-jian/ru-men.md)
       * [必读](shu-hai/ruan-jian-kai-fa/bian-cheng-shi-jian/bi-du.md)
       * [扩展](shu-hai/ruan-jian-kai-fa/bian-cheng-shi-jian/kuo-zhan.md)
+    * [面向对象程序设计](shu-hai/ruan-jian-kai-fa/mian-xiang-dui-xiang-cheng-xu-she-ji.md)
+      * [入门](shu-hai/ruan-jian-kai-fa/mian-xiang-dui-xiang-cheng-xu-she-ji/ru-men.md)
+      * [必读](shu-hai/ruan-jian-kai-fa/mian-xiang-dui-xiang-cheng-xu-she-ji/bi-du.md)
+      * [扩展](shu-hai/ruan-jian-kai-fa/mian-xiang-dui-xiang-cheng-xu-she-ji/kuo-zhan.md)
   * 个人成长
 
