@@ -41,6 +41,6 @@
     * [重构](shu-hai/ruan-jian-kai-fa/zhong-gou.md)
       * [入门](shu-hai/ruan-jian-kai-fa/zhong-gou/ru-men.md)
       * [必读](shu-hai/ruan-jian-kai-fa/zhong-gou/bi-du.md)
-      * 扩展
+      * [扩展](shu-hai/ruan-jian-kai-fa/zhong-gou/kuo-zhan.md)
   * 个人成长
 
