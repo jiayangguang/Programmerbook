@@ -54,5 +54,9 @@
       * [入门](shu-hai/ruan-jian-kai-fa/zhuan-ye-kai-fa/ru-men.md)
       * [必读](shu-hai/ruan-jian-kai-fa/zhuan-ye-kai-fa/bi-du.md)
       * [扩展](shu-hai/ruan-jian-kai-fa/zhuan-ye-kai-fa/kuo-zhan.md)
+    * [大师之言 ](shu-hai/ruan-jian-kai-fa/da-shi-zhi-yan.md)
+      * [入门](shu-hai/ruan-jian-kai-fa/da-shi-zhi-yan/ru-men.md)
+      * [必读](shu-hai/ruan-jian-kai-fa/da-shi-zhi-yan/bi-du.md)
+      * [扩展](shu-hai/ruan-jian-kai-fa/da-shi-zhi-yan/kuo-zhan.md)
   * 个人成长
 
