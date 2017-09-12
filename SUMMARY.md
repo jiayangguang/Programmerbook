@@ -75,4 +75,8 @@
       * [入门](shu-hai/ge-ren-cheng-chang/si-wei-fang-shi/ru-men.md)
       * [必读](shu-hai/ge-ren-cheng-chang/si-wei-fang-shi/bi-du.md)
       * [扩展](shu-hai/ge-ren-cheng-chang/si-wei-fang-shi/kuo-zhan.md)
+    * [求职面试 ](shu-hai/ge-ren-cheng-chang/qiu-zhi-mian-shi.md)
+      * [入门](shu-hai/ge-ren-cheng-chang/qiu-zhi-mian-shi/ru-men.md)
+      * [必读](shu-hai/ge-ren-cheng-chang/qiu-zhi-mian-shi/bi-du.md)
+      * 扩展
 
