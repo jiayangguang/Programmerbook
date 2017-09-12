@@ -66,5 +66,9 @@
       * [入门](shu-hai/ruan-jian-kai-fa/jiao-hu-she-ji/ru-men.md)
       * [必读](shu-hai/ruan-jian-kai-fa/jiao-hu-she-ji/bi-du.md)
       * [扩展](shu-hai/ruan-jian-kai-fa/jiao-hu-she-ji/kuo-zhan.md)
-  * 个人成长
+  * [个人成长](shu-hai/ge-ren-cheng-chang.md)
+    * [职业规划](shu-hai/ge-ren-cheng-chang/zhi-ye-gui-hua.md)
+      * [入门](shu-hai/ge-ren-cheng-chang/zhi-ye-gui-hua/ru-men.md)
+      * [必读](shu-hai/ge-ren-cheng-chang/zhi-ye-gui-hua/bi-du.md)
+      * [扩展](shu-hai/ge-ren-cheng-chang/zhi-ye-gui-hua/kuo-zhan.md)
 
