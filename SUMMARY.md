@@ -49,6 +49,6 @@
     * [项目管理](shu-hai/ruan-jian-kai-fa/xiang-mu-guan-li.md)
       * [入门](shu-hai/ruan-jian-kai-fa/xiang-mu-guan-li/ru-men.md)
       * [必读](shu-hai/ruan-jian-kai-fa/xiang-mu-guan-li/bi-du.md)
-      * 扩展
+      * [扩展](shu-hai/ruan-jian-kai-fa/xiang-mu-guan-li/kuo-zhan.md)
   * 个人成长
 
