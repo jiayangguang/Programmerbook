@@ -50,5 +50,9 @@
       * [入门](shu-hai/ruan-jian-kai-fa/xiang-mu-guan-li/ru-men.md)
       * [必读](shu-hai/ruan-jian-kai-fa/xiang-mu-guan-li/bi-du.md)
       * [扩展](shu-hai/ruan-jian-kai-fa/xiang-mu-guan-li/kuo-zhan.md)
+    * [专业开发 ](shu-hai/ruan-jian-kai-fa/zhuan-ye-kai-fa.md)
+      * [入门](shu-hai/ruan-jian-kai-fa/zhuan-ye-kai-fa/ru-men.md)
+      * 必读
+      * 扩展
   * 个人成长
 
