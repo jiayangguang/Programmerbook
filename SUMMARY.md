@@ -40,7 +40,7 @@
       * [扩展](shu-hai/ruan-jian-kai-fa/mian-xiang-dui-xiang-cheng-xu-she-ji/kuo-zhan.md)
     * [重构](shu-hai/ruan-jian-kai-fa/zhong-gou.md)
       * [入门](shu-hai/ruan-jian-kai-fa/zhong-gou/ru-men.md)
-      * 必读
+      * [必读](shu-hai/ruan-jian-kai-fa/zhong-gou/bi-du.md)
       * 扩展
   * 个人成长
 
