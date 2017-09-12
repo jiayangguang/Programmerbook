@@ -46,5 +46,9 @@
       * [入门](shu-hai/ruan-jian-kai-fa/ruan-jian-ce-shi/ru-men.md)
       * [必读](shu-hai/ruan-jian-kai-fa/ruan-jian-ce-shi/bi-du.md)
       * [扩展](shu-hai/ruan-jian-kai-fa/ruan-jian-ce-shi/kuo-zhan.md)
+    * [项目管理](shu-hai/ruan-jian-kai-fa/xiang-mu-guan-li.md)
+      * [入门](shu-hai/ruan-jian-kai-fa/xiang-mu-guan-li/ru-men.md)
+      * 必读
+      * 扩展
   * 个人成长
 
