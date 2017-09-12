@@ -60,7 +60,7 @@
       * [扩展](shu-hai/ruan-jian-kai-fa/da-shi-zhi-yan/kuo-zhan.md)
     * [界面设计](shu-hai/ruan-jian-kai-fa/jie-mian-she-ji.md)
       * [入门](shu-hai/ruan-jian-kai-fa/jie-mian-she-ji/ru-men.md)
-      * 必读
+      * [必读](shu-hai/ruan-jian-kai-fa/jie-mian-she-ji/bi-du.md)
       * 扩展
   * 个人成长
 
