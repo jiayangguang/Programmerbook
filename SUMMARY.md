@@ -79,4 +79,8 @@
       * [入门](shu-hai/ge-ren-cheng-chang/qiu-zhi-mian-shi/ru-men.md)
       * [必读](shu-hai/ge-ren-cheng-chang/qiu-zhi-mian-shi/bi-du.md)
       * [扩展](shu-hai/ge-ren-cheng-chang/qiu-zhi-mian-shi/kuo-zhan.md)
+    * [英语写作](shu-hai/ge-ren-cheng-chang/ying-yu-xie-zuo.md)
+      * [入门](shu-hai/ge-ren-cheng-chang/ying-yu-xie-zuo/ru-men.md)
+      * 必读
+      * 扩展
 
