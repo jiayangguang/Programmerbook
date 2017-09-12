@@ -71,4 +71,8 @@
       * [入门](shu-hai/ge-ren-cheng-chang/zhi-ye-gui-hua/ru-men.md)
       * [必读](shu-hai/ge-ren-cheng-chang/zhi-ye-gui-hua/bi-du.md)
       * [扩展](shu-hai/ge-ren-cheng-chang/zhi-ye-gui-hua/kuo-zhan.md)
+    * [思维方式](shu-hai/ge-ren-cheng-chang/si-wei-fang-shi.md)
+      * [入门](shu-hai/ge-ren-cheng-chang/si-wei-fang-shi/ru-men.md)
+      * [必读](shu-hai/ge-ren-cheng-chang/si-wei-fang-shi/bi-du.md)
+      * [扩展](shu-hai/ge-ren-cheng-chang/si-wei-fang-shi/kuo-zhan.md)
 
